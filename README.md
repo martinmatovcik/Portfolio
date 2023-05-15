@@ -7,7 +7,7 @@ LinkedIn: linkedin.com/in/martinmatovcik/
 
 Email: matko1vcik@gmail.com
 
-#Projects
+# Projects
 Foxbuy: [{link-to-repo}](https://github.com/green-fox-academy/aureus-foxbuy-dd) Final project of Java bootcamp. This project is private under Green Fox Academy
 Greenbay: [{link-to-repo}](https://github.com/martinmatovcik/greenbay) - Simple eBay clone, BE only.
 
