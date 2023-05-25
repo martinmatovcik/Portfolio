@@ -3,7 +3,7 @@
 Welcome to my page, my name is Martin and I'm a fresh alumni of Green Fox Academy. I'm specializing in BackEnd, Java and Spring-Boot and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
 
 ## Hire me
-LinkedIn: linkedin.com/in/martinmatovcik/
+LinkedIn: [linkedin.com/in/martinmatovcik/](https://linkedin.com/in/martinmatovcik/)
 
 Email: matko1vcik@gmail.com
 
